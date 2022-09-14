@@ -1,0 +1,9 @@
+git config --list
+git clone
+
+cd pathdirectory
+
+git status - for file nd folders check
+git add .
+git commit
+git pust
