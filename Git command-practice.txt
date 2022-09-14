@@ -5,5 +5,5 @@ cd pathdirectory
 
 git status - for file nd folders check
 git add .
-git commit
+git commit -m ""
 git pust
